@@ -1,0 +1,21 @@
+.bookmark{
+  background-color: #FFC0CB;
+  margin: 5px auto;
+  border-radius: 10px;
+  border: solid 2px #C71585;
+  padding: 10px;
+  width: 50%;
+}
+
+.bookmark .tag:nth-child(n){
+  background-color: #fff0f2;
+}
+.bookmark .tag:nth-child(2n){
+  background-color: #C71585;
+}
+.bookmark .tag:nth-child(3n){
+  background-color: #FF1493;
+}
+.bookmark .tag:nth-child(4n){
+  background-color: #FF69B4;
+}
