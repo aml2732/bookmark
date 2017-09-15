@@ -1,0 +1,14 @@
+body{
+  background-color: white;
+}
+
+.header{
+  width: 100%;
+  background-color: #FFC0CB;
+  height: 40px;
+}
+
+button{
+  background-color: #FF69B4;
+  border: solid 1px #FF69B4;
+}

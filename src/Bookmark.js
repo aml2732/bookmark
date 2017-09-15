@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import './Bookmark.css';
+import './styles/Bookmark.css';
 import Tag from './Tag.js';
 
 function trimLink(str){

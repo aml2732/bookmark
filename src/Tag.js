@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import './Tag.css';
+import './styles/Tag.css';
 class Tag extends Component {
   render() {
     return(
